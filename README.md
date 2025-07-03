@@ -1,6 +1,17 @@
-## Data Forecasting using AI and ML via MindsDB tool
+# 🏠 Real Estate Price Forecasting with MindsDB & Docker
 
-## •	Conducted a detailed analysis of rental property data, used MindsDB to predict rental prices and predictive accuracy.
-## •	Integrated multiple property features such as room and bathroom count, square footage, and days on market into a predictive model to estimate rental prices.
-## •	Analyzed the impact of location quality and neighborhood on rental pricing, providing insights into market trends and helping to identify high-value rental opportunities.
-## •	Leveraged Docker to create and execute containers for deployment of predictive models across different stages of the data analysis pipeline.
+This project explores rental price prediction using AI-driven modeling with MindsDB. It incorporates property characteristics and market indicators to forecast rental prices and identify high-value opportunities across neighborhoods.
+
+## 📌 Project Summary
+- Conducted detailed analysis of rental property data from online sources.
+- Integrated key property features: number of rooms, bathrooms, square footage, and days on market.
+- Used **MindsDB** to train and deploy regression models for rental price prediction.
+- Evaluated feature impact to understand drivers of pricing and location trends.
+- Deployed models using **Docker containers** for scalable and portable development.
+
+## 🧪 Tools & Technologies
+Python · MindsDB · Pandas · Docker · Jupyter Notebook · Regression Modeling · Data Visualization
+
+## 📂 Dataset
+*Custom compiled property dataset based on publicly available real estate platforms.*
+
